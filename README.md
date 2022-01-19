@@ -1,4 +1,4 @@
-# du-an-tot-nghiep-dev-blog
+# dev-blog
 # setup
 cd client => npm install
 cd server => npm install
