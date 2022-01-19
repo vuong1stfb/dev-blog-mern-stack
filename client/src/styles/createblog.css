@@ -1,0 +1,11 @@
+.react-quill-form .ql-editor{
+    min-height: 310px;
+    max-height: 500px;
+}
+.ql-editor .ql-video {
+    width: 100%;
+    height: 400px;
+}
+.ql-editor {
+    font-size: 19px;
+}

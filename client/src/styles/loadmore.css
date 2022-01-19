@@ -1,0 +1,8 @@
+
+.loadmore{
+    height: 45px;
+    /* background-color: rgb(235, 235, 0); */
+    background: url("../components/access/load.gif") 50% 50% no-repeat;
+    display: flex;
+  justify-content: center;
+}
