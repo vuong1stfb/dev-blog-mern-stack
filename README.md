@@ -1,7 +1,10 @@
 # dev-blog
-# setup
-cd client => npm install
-cd server => npm install
+
+
+user admin 
+tk: blogchiasekienthuc2021@gmail.com
+mk: blogchiasekienthuc2021@gmail.comYmxvZ2NoaWFzZWtpZW50aHVj
+
 
 start client => npm start
 start server => npm run dev
