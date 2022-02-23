@@ -5,7 +5,7 @@
 - Follow tags, user, search, save and read related posts
 - Upload image clounary
 - Admin account: manager users, posts, tags
-- Socket IO comment, notificatin
+- Socket IO comment, notification
 
 deploy link: https://distracted-williams-c5fb47.netlify.app/
 
