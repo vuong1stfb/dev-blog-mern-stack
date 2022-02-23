@@ -1,6 +1,11 @@
 # dev-blog
 
-
+- User can login, register (authentication Jwt)
+- CRUD  posts,  tags, comment
+- Follow tags, user, search, save and read related posts
+- Upload image clounary
+- Admin account: manager users, posts, tags
+- Socket IO comment, notificatin
 
 deploy link: https://distracted-williams-c5fb47.netlify.app/
 
