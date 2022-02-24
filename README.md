@@ -9,12 +9,6 @@
 
 deploy link: https://distracted-williams-c5fb47.netlify.app/
 
-user admin 
-
-tk: blogchiasekienthuc2021@gmail.com
-
-mk: blogchiasekienthuc2021@gmail.comYmxvZ2NoaWFzZWtpZW50aHVj
-
 
 start client => npm start
 start server => npm run dev
