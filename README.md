@@ -8,7 +8,8 @@
 - Socket IO comment, notification
 
 deploy link: https://distracted-williams-c5fb47.netlify.app/
-
+tk: duy@gmail.com
+pass: 123123
 
 start client => npm start
 start server => npm run dev
